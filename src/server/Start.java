@@ -3,7 +3,7 @@ package server;
 public class Start {
 
 	public static void main(String[] args) {
-		System.out.println("start");
+		System.out.println("no");
 	}
 
 }
